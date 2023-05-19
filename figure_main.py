@@ -1,4 +1,4 @@
-# %%
+# figure_main
 
 import figure
 
